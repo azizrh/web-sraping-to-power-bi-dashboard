@@ -1,2 +1,2 @@
 # Ini adalah web scraper
-$\infty$
+$e^{i \pi} = -1$
